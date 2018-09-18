@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/home">
+        <file alias="home_messages_icon">home_messages_icon.png</file>
+        <file alias="home_user_center_icon">home_user_center_icon.png</file>
+        <file>home_bike_scan_b.png</file>
+        <file>home_title_icon.png</file>
+        <file alias="bt_home_location">bt_home_location.png</file>
+        <file alias="bt_home_location_pressed">bt_home_location_pressed.png</file>
+    </qresource>
+    <qresource prefix="/user">
+        <file alias="avatar_default_login">avatar_default_login.png</file>
+        <file alias="credit_card">credit_card.png</file>
+        <file alias="deposit_for_active_month_card">deposit_for_active_month_card.png</file>
+        <file alias="ic_drawer_coupon">ic_drawer_coupon.png</file>
+        <file alias="ic_drawer_money">ic_drawer_money.png</file>
+        <file alias="ic_drawer_trip">ic_drawer_trip.png</file>
+        <file alias="ic_mobile_coin">ic_mobile_coin.png</file>
+        <file alias="sso_user_icon_placehold">sso_user_icon_placehold.png</file>
+        <file alias="umeng_socialize_qq">umeng_socialize_qq.png</file>
+        <file alias="umeng_socialize_sina">umeng_socialize_sina.png</file>
+        <file alias="umeng_socialize_wechat">umeng_socialize_wechat.png</file>
+        <file alias="wallet_card_0">wallet_card_0.png</file>
+    </qresource>
+    <qresource prefix="/login">
+        <file alias="login_weibo">umeng_socialize_sina.png</file>
+        <file alias="login_wechat">umeng_socialize_wechat.png</file>
+    </qresource>
+    <qresource prefix="/qrcode">
+        <file alias="home_unlock_to_success_32">home_unlock_to_success_32.png</file>
+    </qresource>
+    <qresource prefix="/cost">
+        <file alias="balance_pay_icon">balance_pay_icon.png</file>
+        <file alias="wallet_card_0">wallet_card_0.png</file>
+        <file alias="ic_alipay">ic_alipay.png</file>
+        <file alias="weixin_ic">weixin_ic.png</file>
+    </qresource>
+</RCC>
